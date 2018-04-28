@@ -3,8 +3,9 @@ using namespace std;
 void f2()
 {
 #define TBL_SIZE 2
-    long i = 0;
+     long i = 0;
     long lArr[TBL_SIZE] = {7, 15};
+
     for (i = 0; i <= TBL_SIZE; ++i) {
             cout<<&i<<endl;
     cout<<lArr<<endl;
