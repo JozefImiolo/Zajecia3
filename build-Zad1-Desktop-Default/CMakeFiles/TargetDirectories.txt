@@ -1,0 +1,3 @@
+/home/user/Zajecia3/build-Zad1-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/user/Zajecia3/build-Zad1-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/user/Zajecia3/build-Zad1-Desktop-Default/CMakeFiles/Zad1.dir
