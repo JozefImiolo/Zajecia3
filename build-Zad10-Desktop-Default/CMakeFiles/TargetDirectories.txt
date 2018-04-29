@@ -1,0 +1,3 @@
+/home/user/git/Zajecia3/build-Zad10-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/user/git/Zajecia3/build-Zad10-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/user/git/Zajecia3/build-Zad10-Desktop-Default/CMakeFiles/Zad10.dir

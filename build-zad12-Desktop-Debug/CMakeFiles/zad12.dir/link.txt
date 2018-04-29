@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/zad12.dir/main.cpp.o  -o zad12 
